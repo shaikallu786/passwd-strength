@@ -49,7 +49,7 @@ def assess_password_strength(password):
     }
 
 # Example usage
-password = "Shaikallu@123"
+password = "Abcde@1234"
 result = assess_password_strength(password)
 
 print(f"Password Strength: {result['strength']}")
